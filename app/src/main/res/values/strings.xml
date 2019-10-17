@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AndroidSample</string>
+    <string name="btn1">LinearLayout Example</string>
+    <string name="btn2">ChattingActivity</string>
+    <string name="btn3">ChangeImageActivity</string>
+    <string name="btn4">ToastActivity</string>
+    <string name="btn5">SwipeActivity - 데이터를 전달</string>
+    <string name="btn6">FruitSelectActivity - 다른 Activity로 부터 데이터 받기</string>
+    <string name="btn7">ANR (Applilcation Not Responding) </string>
+    <string name="btn8">COUNTer ERROR </string>
+    <string name="btn9">COUNTER - ThreadHandler </string>
+    <string name="btn10">도서 검색 및 출력 </string>
+    <string name="btn11">영화 차트 보기 </string>
+    <string name="btn12">도서 검색 및 출력 - Custom </string>
+    <string name="btn13">Implicit Intent - Custom </string>
+    <string name="btn14">Broadcast 정적 </string>
+    <string name="btn15">Broadcast 동적 </string>
+    <string name="btn16">SQLite 관련 처리 </string>
+    <string name="btn17">주소록  </string>
+    <string name="kakao_app_key">bd610b7126ddbacaafbe4783514efd77</string>
+    kakao_app_key
+    <string name="textview1">textview1</string>
+    <string name="textview2">textview2</string>
+    <string name="textview3">textview3</string>
+    <string name="textview4">textview4</string>
+    <string name="toastMsg">햄 토스트</string>
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent" >
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20px"
+        android:scaleType="fitCenter"
+        android:adjustViewBounds="true"
+        android:src="@drawable/young"/>
+
+    <Button
+        android:id="@+id/img_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="무럭무럭 쑥쑥"
+        android:background="@color/purple"/>
+
+</LinearLayout>

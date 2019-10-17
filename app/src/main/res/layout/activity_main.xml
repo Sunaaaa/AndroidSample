@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="@color/activityBackground">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/linear_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn1"
+            android:padding="20px" />
+
+        <Button
+            android:id="@+id/chatAc_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn2"
+            android:padding="20px"/>
+
+        <Button
+            android:id="@+id/changeIm_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn3"
+            android:padding="20px"/>
+
+        <Button
+            android:id="@+id/toast_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn4"
+            android:padding="20px"/>
+
+        <Button
+            android:id="@+id/swipe_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn5"
+            android:padding="20px"/>
+
+        <Button
+            android:id="@+id/fruitAc_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn6"
+            android:padding="20px"/>
+
+        <Button
+            android:id="@+id/anr_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn7"
+            android:padding="20px"/>
+
+        <Button
+            android:id="@+id/error_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn8"
+            android:padding="20px"/>
+
+
+        <Button
+            android:id="@+id/counter_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn9"
+            android:padding="20px"/>
+
+
+        <Button
+            android:id="@+id/book_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn10"
+            android:padding="20px"/>
+
+
+
+        <Button
+            android:id="@+id/movie_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn11"
+            android:padding="20px"/>
+
+
+        <Button
+            android:id="@+id/custom_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn12"
+            android:padding="20px"/>
+
+
+        <Button
+            android:id="@+id/implicit_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn13"
+            android:padding="20px"/>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="서비스 시작"
+                android:id="@+id/serviceStartBtn"
+                android:padding="10px"
+                android:layout_weight="1"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="서비스 중지"
+                android:id="@+id/serviceStopBtn"
+                android:padding="10px"
+                android:layout_weight="1"/>
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/broad_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn14"
+            android:padding="20px"/>
+
+        <Button
+            android:id="@+id/broadCastbtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn15"
+            android:padding="20px"/>
+
+
+        <Button
+            android:id="@+id/sqlite_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn16"
+            android:padding="20px"/>
+
+
+        <Button
+            android:id="@+id/phone_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn17"
+            android:padding="20px"/>
+
+    </LinearLayout>
+</ScrollView>
